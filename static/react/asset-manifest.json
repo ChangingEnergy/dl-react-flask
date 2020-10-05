@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/react/css/main.6214e25a.chunk.css",
-    "main.js": "/static/react/js/main.30f02fdd.chunk.js",
-    "main.js.map": "/static/react/js/main.30f02fdd.chunk.js.map",
+    "main.js": "/static/react/js/main.4e7336b0.chunk.js",
+    "main.js.map": "/static/react/js/main.4e7336b0.chunk.js.map",
     "runtime-main.js": "/static/react/js/runtime-main.8fa3ef7f.js",
     "runtime-main.js.map": "/static/react/js/runtime-main.8fa3ef7f.js.map",
     "js/2.396a42f1.chunk.js": "/static/react/js/2.396a42f1.chunk.js",
@@ -13,13 +13,13 @@
     "media/keras.ico": "/static/react/media/keras.6e2f5fde.ico",
     "media/logo.svg": "/static/react/media/logo.5d5d9eef.svg",
     "media/tensorflow.ico": "/static/react/media/tensorflow.23c47738.ico",
-    "precache-manifest.df3051dc3c2e7a9b7a05a1c707d56bdc.js": "/static/react/precache-manifest.df3051dc3c2e7a9b7a05a1c707d56bdc.js",
+    "precache-manifest.a6153e8675ca445c45494b8915ff97f6.js": "/static/react/precache-manifest.a6153e8675ca445c45494b8915ff97f6.js",
     "service-worker.js": "/static/react/service-worker.js"
   },
   "entrypoints": [
     "js/runtime-main.8fa3ef7f.js",
     "js/2.396a42f1.chunk.js",
     "css/main.6214e25a.chunk.css",
-    "js/main.30f02fdd.chunk.js"
+    "js/main.4e7336b0.chunk.js"
   ]
 }
