@@ -1,2 +1,2 @@
 # needed for import cv2 to work with deep learning on Binder and Heroku
-add libgl1
+add libgl1.so
