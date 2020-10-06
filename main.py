@@ -19,6 +19,7 @@ from werkzeug.utils import secure_filename
 
 # # BW below is meant to be simple
 app = flask.Flask(__name__)
+server = app.server
 app.config['MAX_CONTENT_LENGTH'] = 1024 * 1024
 app.config['UPLOAD_EXTENSIONS'] = ['.jpg', '.png', '.gif']
 app.config['UPLOAD_PATH'] = 'static/uploads'
