@@ -138,4 +138,4 @@ def upload(filename):
 
 
 
-app.run(debug=True)
+app.run(host='0.0.0.0', debug=False, port=os.environ.get('PORT', 80))
