@@ -1,1 +1,1 @@
-web: gunicorn main:pv-deeplearning
+web: gunicorn main:server
